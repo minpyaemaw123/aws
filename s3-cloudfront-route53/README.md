@@ -120,11 +120,9 @@ Once DNS changes propagate (can take a few minutes to hours):
 
 You should see your static site served via CloudFront with HTTPS!
 
-
+![Barista Screenshot](img/barista.png)
 
 ---
-
-
 ---
 
 ## 💡 Optional Enhancements
